@@ -73,3 +73,8 @@ graph TD
    ```bash
    streamlit run app.py
    ```
+## 📺 Demo Video
+
+## 📺 Project Demo
+
+[![AI Placement Mentor Demo](https://img.youtube.com/vi/7FYVxXqHneE/maxresdefault.jpg)](https://www.youtube.com/watch?v=7FYVxXqHneE)
